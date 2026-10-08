@@ -1,16 +1,171 @@
-# React + Vite
+# 🌿 Riyansh Amrit Juice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium, responsive and multilingual business website for **Riyansh Amrit Juice**, a herbal wellness drink made with 42 herbs, fruits and natural ingredients.
 
-Currently, two official plugins are available:
+The website provides product information, formulation highlights, wellness-focused content, customer testimonials and direct contact options.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🌐 Live Website
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://riyansh-amrit-juice.vercel.app
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Premium herbal wellness product website
+- English, Hindi and Marathi language support
+- Fully responsive design
+- Desktop, laptop, tablet and mobile support
+- Responsive navigation
+- Mobile hamburger menu
+- 42 Herbs formulation section
+- Wellness-focused product information
+- Customer testimonials
+- WhatsApp contact functionality
+- Direct call functionality
+- Premium botanical design
+- Vercel deployment
+
+---
+
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- Git
+- GitHub
+- Vercel
+
+---
+
+## 🌍 Language Support
+
+The website supports:
+
+- English
+- Hindi
+- Marathi
+
+The multilingual system is implemented using React Context and a separate translation file.
+
+---
+
+## 📁 Project Structure
+
+~~~text
+Riyansh-Amrit-Juice/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── LanguageContext.jsx
+│   ├── translations.js
+│   ├── main.jsx
+│   └── index.css
+├── .gitignore
+├── README.md
+├── index.html
+├── package.json
+├── package-lock.json
+└── vite.config.js
+~~~
+
+---
+
+## 🚀 Getting Started
+
+### Clone the Repository
+
+~~~bash
+git clone https://github.com/shreyasonawane9545/Riyansh-Amrit-Juice.git
+~~~
+
+### Navigate to the Project
+
+~~~bash
+cd Riyansh-Amrit-Juice
+~~~
+
+### Install Dependencies
+
+~~~bash
+npm install
+~~~
+
+### Start the Development Server
+
+~~~bash
+npm run dev
+~~~
+
+The website will be available at the local URL provided by Vite.
+
+Usually:
+
+~~~text
+http://localhost:5173/
+~~~
+
+---
+
+## 📦 Production Build
+
+To create a production build:
+
+~~~bash
+npm run build
+~~~
+
+To preview the production build:
+
+~~~bash
+npm run preview
+~~~
+
+---
+
+## 🚀 Deployment
+
+The website is deployed using **Vercel** and connected to the GitHub repository.
+
+Changes pushed to the `main` branch can automatically trigger a new deployment.
+
+---
+
+## 📱 Responsive Design
+
+The website is designed for:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile phones
+
+---
+
+## 📌 Project Status
+
+**Completed and Deployed** ✅
+
+- Responsive website completed
+- English, Hindi and Marathi languages implemented
+- GitHub repository created
+- Vercel deployment completed
+- Live website available online
+
+---
+
+## 👩‍💻 Developer
+
+**Shreya Sonawane**
+
+Computer Engineering Graduate
+
+
+
